@@ -9,7 +9,7 @@
 
 <p align="center">
     <h1 align="center">BedrockPortal</h1>
-    <p align="center">A crossplatform Minecraft BE multiplayer app powered with <a href="https://flutter.dev" target="_blank">Flutter</a></p>
+    <p align="center">A crossplatform Minecraft BE multiplayer app powered with <a href="https://dart.dev" target="_blank">Dart</a></p>
 </p>
 <p align="center">
 <a href="https://"><img src="https://img.shields.io/static/v1?label=VisualCode&message=ready&color=green&style=popout-square&logo=visual-studio-code" alt="VisualCode - ready" height="18">
